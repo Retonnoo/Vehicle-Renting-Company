@@ -4,8 +4,6 @@ public abstract class Client {
 
     //    Parent for all Clients (essential attributes for all Clients)
 
-    public abstract class Client {
-
     private int clientId;
     private String clientName;
     private String Address;
@@ -66,4 +64,4 @@ public abstract class Client {
     }
 }
 
-}
+
