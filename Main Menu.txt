@@ -1,0 +1,36 @@
+===== VEHICLE RENTAL SYSTEM =====
+
+1. Vehicle Management
+2. Client Management
+3. Rental Contract Manager
+4. Return Vehicle
+5. View Active Rentals
+6. View Reports
+7. Search
+8. Exit
+-------------
+Enter choice:
+-------------
+
+=== VEHICLE MANAGEMENT ===
+
+
+1. Add Vehicle
+2. Remove Vehicle
+3.Search Vehicle By Plate Number
+4. Show All Vehicles
+5. Show Available Vehicles
+6. Back
+-------------
+Enter choice:
+-------------
+=== Clients MANAGEMENT ===
+
+1. Add Clients
+2. Remove Clients
+3.Search Clients By Vehicle Id
+4. Show All Clients
+5. Show Clients Info
+6. Back
+-------------
+Enter choice:
